@@ -1,0 +1,2445 @@
+['FLIPPED FEATURES:', array([False, False, False], dtype=bool)]
+['DIMENSION SHUFFLE:', array([1, 0, 2]), ['Veining', 'Color', 'Shape']]
+
+--------STIMULUS INFO--------
+[<psychopy.visual.ImageStim instance at 0x07BE6EB8>, 'a__.png', array([ nan,   0.,  nan])]
+[<psychopy.visual.ImageStim instance at 0x07CA5710>, 'b__.png', array([ nan,   1.,  nan])]
+[<psychopy.visual.ImageStim instance at 0x07CA59B8>, '_a_.png', array([  0.,  nan,  nan])]
+[<psychopy.visual.ImageStim instance at 0x07CA5940>, '_b_.png', array([  1.,  nan,  nan])]
+[<psychopy.visual.ImageStim instance at 0x07CA5AA8>, '__a.png', array([ nan,  nan,   0.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5AF8>, '__b.png', array([ nan,  nan,   1.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5A58>, 'aa_.png', array([  0.,   0.,  nan])]
+[<psychopy.visual.ImageStim instance at 0x07CA5B98>, 'ab_.png', array([  1.,   0.,  nan])]
+[<psychopy.visual.ImageStim instance at 0x07CA5C10>, 'a_a.png', array([ nan,   0.,   0.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5C60>, 'a_b.png', array([ nan,   0.,   1.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5CB0>, 'ba_.png', array([  0.,   1.,  nan])]
+[<psychopy.visual.ImageStim instance at 0x07CA5D00>, 'bb_.png', array([  1.,   1.,  nan])]
+[<psychopy.visual.ImageStim instance at 0x07CA5D50>, 'b_a.png', array([ nan,   1.,   0.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5DA0>, 'b_b.png', array([ nan,   1.,   1.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5DF0>, '_aa.png', array([  0.,  nan,   0.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5E40>, '_ab.png', array([  0.,  nan,   1.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5E90>, '_ba.png', array([  1.,  nan,   0.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5EE0>, '_bb.png', array([  1.,  nan,   1.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.])]
+[<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.])]
+[<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.])]
+
+------------CONDITION INFO:------------
+subjectnumber: 2456
+exp condition: 4
+training condition: switchit
+shj condition: 2
+stim condition: 8
+
+--------RUNNING SWITCHIT TRAINING------
+-----TRAINING ITEMS:
+[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.]), 'Lape', 1]
+[<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.]), 'Lape', 2]
+[<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.]), 'Tannet', 3]
+[<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.]), 'Tannet', 4]
+[<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.]), 'Tannet', 5]
+[<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.]), 'Tannet', 6]
+[<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.]), 'Lape', 7]
+[<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.]), 'Lape', 8]
+
+------executing trials------
+
+Veining
+[0, 0, 1, 0]
+Shape
+[1, 0, 1, 0]
+Done
+[1, 0, 1, 1]
+
+Block 1, Trial 1 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 1, Trial 2 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Lape']
+['accuracy:', 0]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 1, Trial 3 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Shape
+[0, 1, 0, 0]
+Color
+[1, 1, 0, 0]
+Done
+[1, 1, 0, 1]
+
+Block 1, Trial 4 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [1, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 1, Trial 5 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 1, Trial 6 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Done
+[0, 0, 0, 1]
+Color
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 1, Trial 7 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 1, 0, 0]
+Shape
+[0, 1, 1, 0]
+Done
+[0, 1, 1, 1]
+
+Block 1, Trial 8 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [0, 1, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+
+|----------executing validation-----------|
+
+['check-up number', 1]
+
+------RUNNING CLASSIFICATION TESTING------
+------------------------------------
+
+-----TEST BLOCK ITEMS:
+[[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.]), 'Lape', 1], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.]), 'Lape', 2], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.]), 'Tannet', 3], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.]), 'Tannet', 4], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.]), 'Tannet', 5], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.]), 'Tannet', 6], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.]), 'Lape', 7], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.]), 'Lape', 8], 0.0]
+------executing trials------
+
+Lape
+
+Classify Test Trial 1 information:
+['presented image:', [0.0, 0.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 2 information:
+['presented image:', [1.0, 0.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Lape']
+['accuracy:', 0]
+Tannet
+
+Classify Test Trial 3 information:
+['presented image:', [1.0, 0.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Lape']
+['accuracy:', 0]
+Lape
+
+Classify Test Trial 4 information:
+['presented image:', [1.0, 1.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Tannet']
+['accuracy:', 0]
+Lape
+
+Classify Test Trial 5 information:
+['presented image:', [1.0, 1.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Tannet']
+['accuracy:', 0]
+Tannet
+
+Classify Test Trial 6 information:
+['presented image:', [0.0, 1.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 7 information:
+['presented image:', [0.0, 1.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 8 information:
+['presented image:', [0.0, 0.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 2, Trial 1 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 2, Trial 2 information:
+['finalimage:', [1, 0, 0]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 2, Trial 3 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Shape
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 2, Trial 4 information:
+['finalimage:', [1, 1, 0]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Lape']
+['accuracy:', 0]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 2, Trial 5 information:
+['finalimage:', [1, 0, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 2, Trial 6 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 2, Trial 7 information:
+['finalimage:', [1, 0, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Shape
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 2, Trial 8 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Shape
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 3, Trial 1 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Lape']
+['accuracy:', 0]
+Shape
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 3, Trial 2 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 3, Trial 3 information:
+['finalimage:', [1, 1, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 3, Trial 4 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 3, Trial 5 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 3, Trial 6 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 3, Trial 7 information:
+['finalimage:', [1, 0, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Shape
+[1, 1, 0, 0]
+Done
+[1, 1, 0, 1]
+
+Block 3, Trial 8 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+
+|----------executing validation-----------|
+
+['check-up number', 2]
+
+------RUNNING CLASSIFICATION TESTING------
+------------------------------------
+
+-----TEST BLOCK ITEMS:
+[[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.]), 'Lape', 1], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.]), 'Lape', 2], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.]), 'Tannet', 3], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.]), 'Tannet', 4], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.]), 'Tannet', 5], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.]), 'Tannet', 6], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.]), 'Lape', 7], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.]), 'Lape', 8], 0.0]
+------executing trials------
+
+Lape
+
+Classify Test Trial 1 information:
+['presented image:', [1.0, 1.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 2 information:
+['presented image:', [1.0, 0.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 3 information:
+['presented image:', [0.0, 1.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 4 information:
+['presented image:', [1.0, 0.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Lape']
+['accuracy:', 0]
+Lape
+
+Classify Test Trial 5 information:
+['presented image:', [0.0, 0.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 6 information:
+['presented image:', [1.0, 1.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Tannet']
+['accuracy:', 0]
+Lape
+
+Classify Test Trial 7 information:
+['presented image:', [0.0, 0.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 8 information:
+['presented image:', [0.0, 1.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Lape']
+['accuracy:', 0]
+Veining
+[1, 0, 0, 0]
+Shape
+[1, 0, 1, 0]
+Done
+[1, 0, 1, 1]
+
+Block 4, Trial 1 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [1, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 4, Trial 2 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Color
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 4, Trial 3 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 4, Trial 4 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Shape
+[0, 1, 1, 0]
+Done
+[0, 1, 1, 1]
+
+Block 4, Trial 5 information:
+['finalimage:', [1, 0, 0]]
+['buttons pushed:', [0, 1, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 4, Trial 6 information:
+['finalimage:', [1, 1, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 4, Trial 7 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Lape']
+['accuracy:', 0]
+Shape
+[0, 0, 1, 0]
+Veining
+[0, 1, 1, 0]
+Done
+[0, 1, 1, 1]
+
+Block 4, Trial 8 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 1, 0, 0]
+Color
+[1, 1, 0, 0]
+Veining
+[1, 1, 1, 0]
+Done
+[1, 1, 1, 1]
+
+Block 5, Trial 1 information:
+['finalimage:', [1, 0, 1]]
+['buttons pushed:', [1, 1, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 5, Trial 2 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Color
+[0, 1, 0, 0]
+Shape
+[0, 1, 1, 0]
+Done
+[0, 1, 1, 1]
+
+Block 5, Trial 3 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 5, Trial 4 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 5, Trial 5 information:
+['finalimage:', [1, 1, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Color
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 5, Trial 6 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 5, Trial 7 information:
+['finalimage:', [1, 0, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Veining
+[0, 1, 0, 0]
+Shape
+[1, 1, 0, 0]
+Done
+[1, 1, 0, 1]
+
+Block 5, Trial 8 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+
+|----------executing validation-----------|
+
+['check-up number', 3]
+
+------RUNNING CLASSIFICATION TESTING------
+------------------------------------
+
+-----TEST BLOCK ITEMS:
+[[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.]), 'Lape', 1], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.]), 'Lape', 2], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.]), 'Tannet', 3], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.]), 'Tannet', 4], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.]), 'Tannet', 5], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.]), 'Tannet', 6], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.]), 'Lape', 7], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.]), 'Lape', 8], 0.0]
+------executing trials------
+
+Lape
+
+Classify Test Trial 1 information:
+['presented image:', [1.0, 1.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Tannet']
+['accuracy:', 0]
+Tannet
+
+Classify Test Trial 2 information:
+['presented image:', [0.0, 1.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 3 information:
+['presented image:', [0.0, 0.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 4 information:
+['presented image:', [1.0, 0.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 5 information:
+['presented image:', [1.0, 0.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Lape']
+['accuracy:', 0]
+Lape
+
+Classify Test Trial 6 information:
+['presented image:', [0.0, 0.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 7 information:
+['presented image:', [0.0, 1.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 8 information:
+['presented image:', [1.0, 1.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Color
+[1, 0, 0, 0]
+Shape
+[1, 1, 0, 0]
+Done
+[1, 1, 0, 1]
+
+Block 6, Trial 1 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 6, Trial 2 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 6, Trial 3 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Shape
+[0, 1, 0, 0]
+Veining
+[0, 1, 1, 0]
+Done
+[0, 1, 1, 1]
+
+Block 6, Trial 4 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Veining
+[1, 0, 1, 0]
+Done
+[1, 0, 1, 1]
+
+Block 6, Trial 5 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [1, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Shape
+[0, 1, 0, 0]
+Veining
+[0, 1, 1, 0]
+Done
+[0, 1, 1, 1]
+
+Block 6, Trial 6 information:
+['finalimage:', [1, 0, 0]]
+['buttons pushed:', [0, 1, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 6, Trial 7 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Veining
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 6, Trial 8 information:
+['finalimage:', [1, 1, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Color
+[0, 0, 1, 0]
+Shape
+[0, 1, 1, 0]
+Done
+[0, 1, 1, 1]
+
+Block 7, Trial 1 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 7, Trial 2 information:
+['finalimage:', [1, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Shape
+[0, 1, 1, 0]
+Done
+[0, 1, 1, 1]
+
+Block 7, Trial 3 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[1, 0, 0, 0]
+Veining
+[1, 1, 0, 0]
+Done
+[1, 1, 0, 1]
+
+Block 7, Trial 4 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [1, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Color
+[0, 1, 0, 0]
+Shape
+[0, 1, 1, 0]
+Done
+[0, 1, 1, 1]
+
+Block 7, Trial 5 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 1, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 7, Trial 6 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 7, Trial 7 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 7, Trial 8 information:
+['finalimage:', [1, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Lape']
+['accuracy:', 0]
+
+|----------executing validation-----------|
+
+['check-up number', 4]
+
+------RUNNING CLASSIFICATION TESTING------
+------------------------------------
+
+-----TEST BLOCK ITEMS:
+[[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.]), 'Lape', 1], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.]), 'Lape', 2], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.]), 'Tannet', 3], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.]), 'Tannet', 4], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.]), 'Tannet', 5], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.]), 'Tannet', 6], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.]), 'Lape', 7], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.]), 'Lape', 8], 0.0]
+------executing trials------
+
+Lape
+
+Classify Test Trial 1 information:
+['presented image:', [1.0, 1.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Tannet']
+['accuracy:', 0]
+Lape
+
+Classify Test Trial 2 information:
+['presented image:', [1.0, 1.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 3 information:
+['presented image:', [1.0, 0.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Lape']
+['accuracy:', 0]
+Lape
+
+Classify Test Trial 4 information:
+['presented image:', [0.0, 0.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Tannet']
+['accuracy:', 0]
+Lape
+
+Classify Test Trial 5 information:
+['presented image:', [0.0, 0.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Tannet']
+['accuracy:', 0]
+Tannet
+
+Classify Test Trial 6 information:
+['presented image:', [1.0, 0.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Lape']
+['accuracy:', 0]
+Tannet
+
+Classify Test Trial 7 information:
+['presented image:', [0.0, 1.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Lape']
+['accuracy:', 0]
+Tannet
+
+Classify Test Trial 8 information:
+['presented image:', [0.0, 1.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 8, Trial 1 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 8, Trial 2 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 8, Trial 3 information:
+['finalimage:', [1, 0, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 8, Trial 4 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 8, Trial 5 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Color
+[1, 0, 0, 0]
+Shape
+[1, 0, 1, 0]
+Done
+[1, 0, 1, 1]
+
+Block 8, Trial 6 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Shape
+[1, 1, 0, 0]
+Done
+[1, 1, 0, 1]
+
+Block 8, Trial 7 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 8, Trial 8 information:
+['finalimage:', [1, 0, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Color
+[0, 1, 0, 0]
+Shape
+[1, 1, 0, 0]
+Done
+[1, 1, 0, 1]
+
+Block 9, Trial 1 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [1, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 9, Trial 2 information:
+['finalimage:', [1, 0, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 9, Trial 3 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 9, Trial 4 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Color
+[0, 1, 0, 0]
+Veining
+[0, 1, 1, 0]
+Done
+[0, 1, 1, 1]
+
+Block 9, Trial 5 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [0, 1, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Lape']
+['accuracy:', 0]
+Shape
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 9, Trial 6 information:
+['finalimage:', [1, 0, 0]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Veining
+[0, 1, 0, 0]
+Shape
+[1, 1, 0, 0]
+Done
+[1, 1, 0, 1]
+
+Block 9, Trial 7 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 9, Trial 8 information:
+['finalimage:', [1, 0, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+
+|----------executing validation-----------|
+
+['check-up number', 5]
+
+------RUNNING CLASSIFICATION TESTING------
+------------------------------------
+
+-----TEST BLOCK ITEMS:
+[[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.]), 'Lape', 1], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.]), 'Lape', 2], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.]), 'Tannet', 3], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.]), 'Tannet', 4], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.]), 'Tannet', 5], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.]), 'Tannet', 6], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.]), 'Lape', 7], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.]), 'Lape', 8], 0.0]
+------executing trials------
+
+Lape
+
+Classify Test Trial 1 information:
+['presented image:', [1.0, 1.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Tannet']
+['accuracy:', 0]
+Tannet
+
+Classify Test Trial 2 information:
+['presented image:', [0.0, 1.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 3 information:
+['presented image:', [1.0, 1.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 4 information:
+['presented image:', [0.0, 1.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 5 information:
+['presented image:', [1.0, 0.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Lape']
+['accuracy:', 0]
+Lape
+
+Classify Test Trial 6 information:
+['presented image:', [0.0, 0.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Tannet']
+['accuracy:', 0]
+Tannet
+
+Classify Test Trial 7 information:
+['presented image:', [1.0, 0.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Lape']
+['accuracy:', 0]
+Lape
+
+Classify Test Trial 8 information:
+['presented image:', [0.0, 0.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Shape
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 10, Trial 1 information:
+['finalimage:', [1, 0, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Shape
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 10, Trial 2 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Veining
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 10, Trial 3 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 10, Trial 4 information:
+['finalimage:', [1, 0, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 10, Trial 5 information:
+['finalimage:', [1, 0, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 10, Trial 6 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Lape']
+['accuracy:', 0]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 10, Trial 7 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 10, Trial 8 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 11, Trial 1 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 11, Trial 2 information:
+['finalimage:', [1, 1, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 11, Trial 3 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 11, Trial 4 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 11, Trial 5 information:
+['finalimage:', [1, 0, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 11, Trial 6 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Shape
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 11, Trial 7 information:
+['finalimage:', [1, 0, 0]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 11, Trial 8 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+
+|----------executing validation-----------|
+
+['check-up number', 6]
+
+------RUNNING CLASSIFICATION TESTING------
+------------------------------------
+
+-----TEST BLOCK ITEMS:
+[[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.]), 'Lape', 1], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.]), 'Lape', 2], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.]), 'Tannet', 3], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.]), 'Tannet', 4], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.]), 'Tannet', 5], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.]), 'Tannet', 6], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.]), 'Lape', 7], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.]), 'Lape', 8], 0.0]
+------executing trials------
+
+Tannet
+
+Classify Test Trial 1 information:
+['presented image:', [0.0, 1.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Lape']
+['accuracy:', 0]
+Tannet
+
+Classify Test Trial 2 information:
+['presented image:', [1.0, 0.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 3 information:
+['presented image:', [0.0, 0.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 4 information:
+['presented image:', [1.0, 1.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 5 information:
+['presented image:', [1.0, 0.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 6 information:
+['presented image:', [0.0, 1.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 7 information:
+['presented image:', [1.0, 1.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Tannet']
+['accuracy:', 0]
+Lape
+
+Classify Test Trial 8 information:
+['presented image:', [0.0, 0.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Tannet']
+['accuracy:', 0]
+Veining
+[0, 0, 1, 0]
+Shape
+[1, 0, 1, 0]
+Done
+[1, 0, 1, 1]
+
+Block 12, Trial 1 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [1, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Shape
+[0, 1, 1, 0]
+Done
+[0, 1, 1, 1]
+
+Block 12, Trial 2 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Color
+[1, 0, 1, 0]
+Done
+[1, 0, 1, 1]
+
+Block 12, Trial 3 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[1, 0, 0, 0]
+Shape
+[1, 0, 1, 0]
+Done
+[1, 0, 1, 1]
+
+Block 12, Trial 4 information:
+['finalimage:', [1, 0, 0]]
+['buttons pushed:', [1, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 12, Trial 5 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 1, 0, 0]
+Shape
+[0, 1, 1, 0]
+Done
+[0, 1, 1, 1]
+
+Block 12, Trial 6 information:
+['finalimage:', [1, 1, 1]]
+['buttons pushed:', [0, 1, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Veining
+[1, 0, 1, 0]
+Done
+[1, 0, 1, 1]
+
+Block 12, Trial 7 information:
+['finalimage:', [1, 1, 0]]
+['buttons pushed:', [1, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Color
+[0, 0, 1, 0]
+Veining
+[1, 0, 1, 0]
+Shape
+[1, 1, 1, 0]
+Done
+[1, 1, 1, 1]
+
+Block 12, Trial 8 information:
+['finalimage:', [1, 0, 1]]
+['buttons pushed:', [1, 1, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 13, Trial 1 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 13, Trial 2 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 13, Trial 3 information:
+['finalimage:', [1, 0, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 13, Trial 4 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 13, Trial 5 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 13, Trial 6 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 13, Trial 7 information:
+['finalimage:', [1, 0, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 13, Trial 8 information:
+['finalimage:', [1, 1, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+
+|----------executing validation-----------|
+
+['check-up number', 7]
+
+------RUNNING CLASSIFICATION TESTING------
+------------------------------------
+
+-----TEST BLOCK ITEMS:
+[[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.]), 'Lape', 1], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.]), 'Lape', 2], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.]), 'Tannet', 3], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.]), 'Tannet', 4], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.]), 'Tannet', 5], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.]), 'Tannet', 6], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.]), 'Lape', 7], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.]), 'Lape', 8], 0.0]
+------executing trials------
+
+Tannet
+
+Classify Test Trial 1 information:
+['presented image:', [0.0, 1.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 2 information:
+['presented image:', [0.0, 1.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 3 information:
+['presented image:', [0.0, 0.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 4 information:
+['presented image:', [1.0, 1.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 5 information:
+['presented image:', [1.0, 0.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 6 information:
+['presented image:', [1.0, 1.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 7 information:
+['presented image:', [0.0, 0.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 8 information:
+['presented image:', [1.0, 0.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 14, Trial 1 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 14, Trial 2 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 14, Trial 3 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 14, Trial 4 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Shape
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 14, Trial 5 information:
+['finalimage:', [1, 0, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 14, Trial 6 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Shape
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 14, Trial 7 information:
+['finalimage:', [1, 0, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Tannet']
+['accuracy:', 0]
+Color
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 14, Trial 8 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 15, Trial 1 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 15, Trial 2 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 15, Trial 3 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 15, Trial 4 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Color
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 15, Trial 5 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 15, Trial 6 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 15, Trial 7 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 15, Trial 8 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+
+|----------executing validation-----------|
+
+['check-up number', 8]
+
+------RUNNING CLASSIFICATION TESTING------
+------------------------------------
+
+-----TEST BLOCK ITEMS:
+[[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.]), 'Lape', 1], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.]), 'Lape', 2], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.]), 'Tannet', 3], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.]), 'Tannet', 4], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.]), 'Tannet', 5], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.]), 'Tannet', 6], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.]), 'Lape', 7], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.]), 'Lape', 8], 0.0]
+------executing trials------
+
+Tannet
+
+Classify Test Trial 1 information:
+['presented image:', [0.0, 1.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 2 information:
+['presented image:', [1.0, 1.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 3 information:
+['presented image:', [1.0, 1.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 4 information:
+['presented image:', [0.0, 0.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 5 information:
+['presented image:', [0.0, 1.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 6 information:
+['presented image:', [0.0, 0.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 7 information:
+['presented image:', [1.0, 0.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 8 information:
+['presented image:', [1.0, 0.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+
+------RUNNING CLASSIFICATION TESTING------
+------------------------------------
+
+-----TEST BLOCK ITEMS:
+[[<psychopy.visual.ImageStim instance at 0x07CA5A58>, 'aa_.png', array([  0.,   0.,  nan])], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5B98>, 'ab_.png', array([  1.,   0.,  nan])], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5CB0>, 'ba_.png', array([  0.,   1.,  nan])], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5D00>, 'bb_.png', array([  1.,   1.,  nan])], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.]), 'Lape', 1], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.]), 'Lape', 2], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.]), 'Tannet', 3], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.]), 'Tannet', 4], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.]), 'Tannet', 5], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.]), 'Tannet', 6], 1.0]
+[[<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.]), 'Lape', 7], 0.0]
+[[<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.]), 'Lape', 8], 0.0]
+------executing trials------
+
+Tannet
+
+Classify Test Trial 1 information:
+['presented image:', [1.0, 0.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 2 information:
+['presented image:', [1.0, 0.0, nan]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 3 information:
+['presented image:', [1.0, 1.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 4 information:
+['presented image:', [1.0, 0.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 5 information:
+['presented image:', [0.0, 1.0, 0.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 6 information:
+['presented image:', [0.0, 0.0, nan]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 7 information:
+['presented image:', [0.0, 1.0, nan]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 8 information:
+['presented image:', [1.0, 1.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 9 information:
+['presented image:', [0.0, 0.0, 0.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Tannet
+
+Classify Test Trial 10 information:
+['presented image:', [0.0, 1.0, 1.0]]
+['actual:', 'Tannet']
+['response:', 'Tannet']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 11 information:
+['presented image:', [0.0, 0.0, 1.0]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+Lape
+
+Classify Test Trial 12 information:
+['presented image:', [1.0, 1.0, nan]]
+['actual:', 'Lape']
+['response:', 'Lape']
+['accuracy:', 1]
+
+------RUNNING INFERENCE TESTING------
+----------------------------------------
+
+-----INFERENCE TEST BLOCK:
+[-1.  0. -1.  0.  1.  0.]
+[-1.  0. -1.  1.  1.  1.]
+[-1.  1. -1.  0.  1.  1.]
+[-1.  1. -1.  1.  1.  0.]
+[ 0. -1. -1.  0.  2.  0.]
+[ 0. -1. -1.  1.  2.  1.]
+[ 1. -1. -1.  0.  2.  1.]
+[ 1. -1. -1.  1.  2.  0.]
+[-1.  0.  0.  0.  1.  0.]
+[-1.  0.  0.  1.  1.  1.]
+[-1.  0.  1.  0.  1.  0.]
+[-1.  0.  1.  1.  1.  1.]
+[-1.  1.  0.  0.  1.  1.]
+[-1.  1.  0.  1.  1.  0.]
+[-1.  1.  1.  0.  1.  1.]
+[-1.  1.  1.  1.  1.  0.]
+[ 0. -1.  0.  0.  2.  0.]
+[ 0. -1.  0.  1.  2.  1.]
+[ 0. -1.  1.  0.  2.  0.]
+[ 0. -1.  1.  1.  2.  1.]
+[ 1. -1.  0.  0.  2.  1.]
+[ 1. -1.  0.  1.  2.  0.]
+[ 1. -1.  1.  0.  2.  1.]
+[ 1. -1.  1.  1.  2.  0.]
+
+------executing trials------
+
+
+Inference Test Trial 1 information:
+['finalimage:', [1.0, 1.0, 0.0]]
+['feature order:', [1, 0, 0]]
+['queued category:', 'Lape']
+['response:', 1]
+['correct response:', 1]
+
+Inference Test Trial 2 information:
+['finalimage:', [1.0, 0.0, nan]]
+['feature order:', [1, 0, 0]]
+['queued category:', 'Tannet']
+['response:', 1]
+['correct response:', 1]
+
+Inference Test Trial 3 information:
+['finalimage:', [1.0, 0.0, nan]]
+['feature order:', [0, 1, 0]]
+['queued category:', 'Tannet']
+['response:', 0]
+['correct response:', 0]
+
+Inference Test Trial 4 information:
+['finalimage:', [1.0, 1.0, 1.0]]
+['feature order:', [0, 1, 0]]
+['queued category:', 'Tannet']
+['response:', 1]
+['correct response:', 0]
+
+Inference Test Trial 5 information:
+['finalimage:', [1.0, 1.0, nan]]
+['feature order:', [1, 0, 0]]
+['queued category:', 'Lape']
+['response:', 1]
+['correct response:', 1]
+
+Inference Test Trial 6 information:
+['finalimage:', [0.0, 0.0, 1.0]]
+['feature order:', [0, 1, 0]]
+['queued category:', 'Lape']
+['response:', 0]
+['correct response:', 0]
+
+Inference Test Trial 7 information:
+['finalimage:', [0.0, 0.0, 1.0]]
+['feature order:', [1, 0, 0]]
+['queued category:', 'Lape']
+['response:', 0]
+['correct response:', 0]
+
+Inference Test Trial 8 information:
+['finalimage:', [1.0, 1.0, nan]]
+['feature order:', [0, 1, 0]]
+['queued category:', 'Lape']
+['response:', 1]
+['correct response:', 1]
+
+Inference Test Trial 9 information:
+['finalimage:', [1.0, 0.0, 0.0]]
+['feature order:', [0, 1, 0]]
+['queued category:', 'Tannet']
+['response:', 0]
+['correct response:', 0]
+
+Inference Test Trial 10 information:
+['finalimage:', [1.0, 0.0, 0.0]]
+['feature order:', [1, 0, 0]]
+['queued category:', 'Lape']
+['response:', 1]
+['correct response:', 0]
+
+Inference Test Trial 11 information:
+['finalimage:', [0.0, 1.0, 1.0]]
+['feature order:', [1, 0, 0]]
+['queued category:', 'Tannet']
+['response:', 0]
+['correct response:', 0]
+
+Inference Test Trial 12 information:
+['finalimage:', [0.0, 0.0, 0.0]]
+['feature order:', [0, 1, 0]]
+['queued category:', 'Lape']
+['response:', 0]
+['correct response:', 0]
+
+Inference Test Trial 13 information:
+['finalimage:', [1.0, 1.0, 1.0]]
+['feature order:', [0, 1, 0]]
+['queued category:', 'Lape']
+['response:', 1]
+['correct response:', 1]
+
+Inference Test Trial 14 information:
+['finalimage:', [0.0, 1.0, nan]]
+['feature order:', [1, 0, 0]]
+['queued category:', 'Tannet']
+['response:', 0]
+['correct response:', 0]
+
+Inference Test Trial 15 information:
+['finalimage:', [1.0, 1.0, 0.0]]
+['feature order:', [0, 1, 0]]
+['queued category:', 'Lape']
+['response:', 1]
+['correct response:', 1]
+
+Inference Test Trial 16 information:
+['finalimage:', [1.0, 0.0, 0.0]]
+['feature order:', [1, 0, 0]]
+['queued category:', 'Tannet']
+['response:', 1]
+['correct response:', 1]
+
+Inference Test Trial 17 information:
+['finalimage:', [0.0, 0.0, nan]]
+['feature order:', [0, 1, 0]]
+['queued category:', 'Lape']
+['response:', 0]
+['correct response:', 0]
+
+Inference Test Trial 18 information:
+['finalimage:', [0.0, 1.0, nan]]
+['feature order:', [0, 1, 0]]
+['queued category:', 'Tannet']
+['response:', 1]
+['correct response:', 1]
+
+Inference Test Trial 19 information:
+['finalimage:', [0.0, 1.0, 0.0]]
+['feature order:', [0, 1, 0]]
+['queued category:', 'Tannet']
+['response:', 1]
+['correct response:', 1]
+
+Inference Test Trial 20 information:
+['finalimage:', [0.0, 0.0, nan]]
+['feature order:', [1, 0, 0]]
+['queued category:', 'Lape']
+['response:', 0]
+['correct response:', 0]
+
+Inference Test Trial 21 information:
+['finalimage:', [0.0, 1.0, 1.0]]
+['feature order:', [0, 1, 0]]
+['queued category:', 'Tannet']
+['response:', 1]
+['correct response:', 1]
+
+Inference Test Trial 22 information:
+['finalimage:', [0.0, 1.0, 0.0]]
+['feature order:', [1, 0, 0]]
+['queued category:', 'Tannet']
+['response:', 0]
+['correct response:', 0]
+
+Inference Test Trial 23 information:
+['finalimage:', [1.0, 0.0, 1.0]]
+['feature order:', [1, 0, 0]]
+['queued category:', 'Tannet']
+['response:', 1]
+['correct response:', 1]
+
+Inference Test Trial 24 information:
+['finalimage:', [1.0, 1.0, 1.0]]
+['feature order:', [1, 0, 0]]
+['queued category:', 'Lape']
+['response:', 1]
+['correct response:', 1]
+
+--------RUNNING SWITCHIT TEST------
+-----TEST ITEMS:
+[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.]), 'Lape', 1]
+[<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.]), 'Lape', 2]
+[<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.]), 'Tannet', 3]
+[<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.]), 'Tannet', 4]
+[<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.]), 'Tannet', 5]
+[<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.]), 'Tannet', 6]
+[<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.]), 'Lape', 7]
+[<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.]), 'Lape', 8]
+
+------executing trials------
+
+[[<psychopy.visual.ImageStim instance at 0x07CA5E18>, 'aaa.png', array([ 0.,  0.,  0.]), 'Lape', 1], [<psychopy.visual.ImageStim instance at 0x07CA5F80>, 'aab.png', array([ 0.,  0.,  1.]), 'Lape', 2], [<psychopy.visual.ImageStim instance at 0x07CA5FA8>, 'aba.png', array([ 1.,  0.,  0.]), 'Tannet', 3], [<psychopy.visual.ImageStim instance at 0x07CA5FD0>, 'abb.png', array([ 1.,  0.,  1.]), 'Tannet', 4], [<psychopy.visual.ImageStim instance at 0x07CA5F30>, 'baa.png', array([ 0.,  1.,  0.]), 'Tannet', 5], [<psychopy.visual.ImageStim instance at 0x07CA5B70>, 'bab.png', array([ 0.,  1.,  1.]), 'Tannet', 6], [<psychopy.visual.ImageStim instance at 0x07CA5918>, 'bba.png', array([ 1.,  1.,  0.]), 'Lape', 7], [<psychopy.visual.ImageStim instance at 0x07CB5080>, 'bbb.png', array([ 1.,  1.,  1.]), 'Lape', 8]]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 15, Trial 1 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 15, Trial 2 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Veining
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 15, Trial 3 information:
+['finalimage:', [0, 1, 0]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 1, 0, 0]
+Done
+[0, 1, 0, 1]
+
+Block 15, Trial 4 information:
+['finalimage:', [0, 0, 0]]
+['buttons pushed:', [0, 1, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Color
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 15, Trial 5 information:
+['finalimage:', [1, 1, 0]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Veining
+[1, 0, 0, 0]
+Done
+[1, 0, 0, 1]
+
+Block 15, Trial 6 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [1, 0, 0, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 15, Trial 7 information:
+['finalimage:', [0, 1, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Lape']
+['switched cat:', 'Tannet']
+['accuracy:', 1]
+Color
+[0, 0, 1, 0]
+Done
+[0, 0, 1, 1]
+
+Block 15, Trial 8 information:
+['finalimage:', [0, 0, 1]]
+['buttons pushed:', [0, 0, 1, 0]]
+['original cat:', 'Tannet']
+['switched cat:', 'Lape']
+['accuracy:', 1]
+
+Experiment completed
